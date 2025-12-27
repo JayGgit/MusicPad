@@ -9,14 +9,14 @@ Features:
 - Rewind track
 - Play / Pause
 - Mute / Unmute
--  Display - Flashes colors
+-  Display - Does nothing for right now. I might change it later to include playback info from the plugged in device.
 
 **PCB:**
 ![Schematic](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/schematic.png)
 ![PCB](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/pcb.png)
 
 **3d Printed Case:**
-![Case](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/case.png)
+![Case + PCB](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/case%20+%20pcb.png)
 
 **BOM:**
 - 4x - Cherry MX Switches
