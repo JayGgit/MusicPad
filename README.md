@@ -1,4 +1,4 @@
-## JayGPad
+## MusicPad
 
 **Made for Hackclub's [Blueprint](blueprint.hackclub.com)**
 
@@ -10,6 +10,9 @@ Features:
 - Play / Pause
 - Mute / Unmute
 -  Display - Does nothing for right now. I might change it later to include playback info from the plugged in device.
+
+**Full MusicPad**
+![Schematic](https://raw.githubusercontent.com/JayGgit/MusicPad/refs/heads/main/img/render.png)
 
 **PCB:**
 ![Schematic](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/schematic.png)
