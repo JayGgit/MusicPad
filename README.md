@@ -1,3 +1,4 @@
+
 ## MusicPad
 
 **Made for Hackclub's [Blueprint](blueprint.hackclub.com)**
@@ -13,11 +14,13 @@ Features:
 
 **Full MusicPad**
 ![Schematic](https://raw.githubusercontent.com/JayGgit/MusicPad/refs/heads/main/img/render.png)
-
+![Full HackPad with case](https://raw.githubusercontent.com/JayGgit/MusicPad/refs/heads/main/img/picHackpadCase.jpeg)
+![MusicPad in real life](https://raw.githubusercontent.com/JayGgit/MusicPad/refs/heads/main/img/picMusicPad.jpeg)
+![Back of the MusicPad in real life](https://raw.githubusercontent.com/JayGgit/MusicPad/refs/heads/main/img/picBackMusicPad.jpeg)
 **PCB:**
 ![Schematic](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/schematic.png)
 ![PCB](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/pcb.png)
-
+![PCB in real life](https://raw.githubusercontent.com/JayGgit/MusicPad/refs/heads/main/img/picPCB.jpeg)
 **3d Printed Case:**
 ![Case + PCB](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/case%20+%20pcb.png)
 
